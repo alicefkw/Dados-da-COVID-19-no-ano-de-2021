@@ -1,9 +1,6 @@
 # Dados-da-COVID-19-no-ano-de-2021
    Um site criado com Python-Flask e bibliotecas Python (Pandas e Matplotlib) para visualização e manipulação de dados. Os dados foram extraídos em formato CSV, diretamente do site do Ministério da Saúde, com dados até a data de 31/10/2021. Apesar deste Dataset possuir dados de todas as cidades do Brasil, este site desenvolvido por mim mostra apenas os dados das cidades de Taubaté, Tremembé e Pindamonhangaba, da região do Vale do Paraíba no estado de São Paulo.
 
-**Para utilização do projeto, peço que coloque os créditos inserindo a seguinte linha:**
-Projeto Desenvolvido por Alice Pinna:  https://github.com/alicefkw/Dados-da-COVID-19-no-ano-de-2021/
-
 **Projeto livre para ser continuado/melhorado! Caso o faça, por favor me mande por email - alicefkw@outlook.com - uma descrição/fotos/e até mesmo o projeto, gostarei muito de ver este retorno!**
 
 **Dúvidas ou contato favor utilizar o e-mail citado acima.**
